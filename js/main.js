@@ -49,6 +49,5 @@
         loop: true,
     });
 
-    
 })(jQuery);
 

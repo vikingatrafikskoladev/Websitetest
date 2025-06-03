@@ -157,6 +157,11 @@
     z-index: 1;
 }
 
+.carousel-item
+{
+    height: 82vh;
+}
+
 .carousel-control-prev,
 .carousel-control-next {
     width: 15%;
