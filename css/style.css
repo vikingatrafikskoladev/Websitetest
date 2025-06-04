@@ -392,3 +392,10 @@
 .copyright a:hover {
     color: var(--light);
 }
+
+.fa-star {
+    color: lightgray;
+  }
+  .checked {
+    color: gold;
+  }
