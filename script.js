@@ -1,8 +1,3 @@
-document.getElementById("contactForm").addEventListener("submit", function (e) {
-  e.preventDefault();
-  alert("Thanks for contacting us! We'll reply shortly.");
-});
-
 // Animate sections on scroll
 const sections = document.querySelectorAll("section");
 const observer = new IntersectionObserver((entries) => {
